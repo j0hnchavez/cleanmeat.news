@@ -1,53 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- START META -->
-    <meta charset="UTF-8">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="viewport" content="width=device-width">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@cleanmeatnews">
-    <meta name="twitter:creator" content="@cleanmeatnews">
-    {% block image %}
-    {% endblock image %}
-    {% block title %}
-    {% endblock title %}
-    {% block description %}
-    {% endblock description %}
-    <meta name="author" content="{{ config.extra.author.name }}">
-    <!-- END META -->
-
-    <!-- START FAVICON -->
-    <link rel="icon" type="image/png" href="/images/favicon.ico" />
-    <!-- END FAVICON -->
-
-    <!-- START RSS -->
-    <link rel="alternative" type="application/rss+xml" title="RSS" href="/rss.xml" />
-    <!-- END RSS -->
-
-    <!-- START CSS -->
-    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-      /* Mailchimp style overrides */
-    	#mc_embed_signup{clear:left; width:100%;}
-      {% block templatestyles %} {% endblock templatestyles%}
-    </style>
-    <link rel="stylesheet" href="/indigo.css">
-    <link rel="stylesheet" href="/styles.css">
-    <!-- END CSS -->
-
-  </head>
-  <body {% block bodyclasses %} {% endblock bodyclasses %}>
-    {% include "partials/search-overlay.html" %}
-    {% block content %}
-    {% endblock content %}
-    {% if config.build_search_index %}
-    <script type="text/javascript" src="{{ get_url(path="glossary.js") | safe }}"></script>
-    <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") | safe }}"></script>
-    <script type="text/javascript" src="{{ get_url(path="search_index.en.js") | safe }}"></script>
-    <script src="https://unpkg.com/popper.js@1"></script>
-    <script src="https://unpkg.com/tippy.js@4"></script>
-    {% endif %}
-    <script src="{{ config.base_url }}/scripts.js"></script>
-  </body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><br>
+<span class="Apple-converted-space"> </span>{% seo %}</span></p>
+<p class="p1"><span class="s1">{{ content }} <br>
+<span class="Apple-converted-space"> </span>{% if site.github.private != true and site.github.license %}</span></p>
+<p class="p1"><span class="s1">This site is open source. {% github_edit_link "Improve this page" %}.<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% if site.google_analytics %} {% endif %}<span class="Apple-converted-space"> </span></span></p>
+</body>
 </html>
