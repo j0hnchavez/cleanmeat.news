@@ -1,6 +1,8 @@
 # Clean Meat News
 
-## **[Why Diseases Thrive in Wet Markets](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)** The Morning Bulletin. Posted 4/24/2020
+## **[Why Diseases Thrive in Wet Markets](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)** 
+
+### The Morning Bulletin. Posted 4/24/2020
 ![wet_market](https://media.apnarm.net.au/media/images/2020/04/19/v3imagesbinb672536bb9f573c2b7740c5f4f899de6-jxxsmhqxq3tghrtz6u2_ct1880x930.jpg)
 
 The coronavirus pandemic was likely incubated in the open-air "wet" meat markets of China. Traditional means of meat production will continue to be a festering ground for disease into the foreseeable future.
