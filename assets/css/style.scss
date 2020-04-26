@@ -8,10 +8,13 @@
   padding-bottom: 0em;
 }
 
-.px-john {
-  padding-right: 70px !important;
-  padding-left: 70px !important
+@media (min-width: 544px) {
+  .px-john {
+    padding-right: 70px !important;
+    padding-left: 70px !important
+  }
 }
+
 
 /*
 .site-content
