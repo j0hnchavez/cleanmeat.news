@@ -8,12 +8,24 @@
   padding-bottom: 0em;
 }
 
-@media (min-width: 544px) {
+# Phones
+@media (max-width: 544px) {
   .px-john {
-    padding-right: 70px !important;
-    padding-left: 70px !important
+    padding-right: 10px !important;
+    padding-left: 10px !important
   }
 }
+
+# Phones - Tablets
+@media (min-width: 544px) {
+  .px-john {
+    padding-right: 0.2rem !important;
+    padding-left: 0.2rem !important
+  }
+}
+
+
+
 
 
 /*
