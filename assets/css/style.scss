@@ -2,13 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Increase font size to 16
+body{
+  font-size:16px
+}
+
+// No bottom border or padding on ## headers
 .markdown-body h2
 {
   border-bottom: 0px solid #eaecef;
-  padding-bottom: 0em;
+  padding-bottom: 0em
 }
 
-// Phones
+// If on phone, slight bezels
 @media (max-width: 544px) {
   .px-john {
     padding-right: 0.6rem !important;
@@ -16,34 +23,17 @@
   }
 }
 
-// Phones & up
+// If not on phone, substantial bezels
 @media (min-width: 544px) {
   .px-john {
     padding-right: 0vw !important;
     padding-left: 0vw !important;
     margin-right: 10vw !important;
-    margin-left: 10vw !important;
+    margin-left: 10vw !important
   }
 }
 
+// Limit scale growth to 664px (arbitrary)
 .container-lg {
   max-width: 664px
 }
-
-body{
-  font-size:16px
-}
-
-
-
-//   .container-lg {  max-width: 100vw }
-
-/*
-.site-content
-{
-  html
-  {
-    font-size: 200% !important;
-  }
-}
-*/
