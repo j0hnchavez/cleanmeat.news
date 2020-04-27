@@ -2,9 +2,9 @@
 
 ## **[Tyson Foods: the food supply chain is breaking](https://twitter.com/AnaSwanson/status/1254416173854228489)**
 
-Tyson Foods, one of the world's largest producers of meat, has taken out a full-page advertisement in the New York Times to warn of the dire situation in the American food industry.
+Tyson Foods, one of the world's largest producers of meat, has taken out a full-page advertisement in the New York Times to warn the public of the dire situation in the American food industry.
 
-**"Millions of pounds of meat will disappear from the supply chain"**, CEO John Tyson stated. The coronavirus crisis is leading to the closures of many factory farms.
+**"Millions of pounds of meat will disappear from the supply chain,"** CEO John Tyson stated. Factory farms across the country are being forced to close due to the coronavirus.
 
 ## **[Why Diseases Thrive in Wet Markets](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)**
 
