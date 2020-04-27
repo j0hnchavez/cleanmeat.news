@@ -21,6 +21,19 @@
   .px-john {
     padding-right: 0vw !important;
     padding-left: 0vw !important;
+    margin-right: 10vw !important;
+    margin-left: 10vw !important;
+  }
+  .container-lg {
+    max-width: 100vw
+  }
+}
+
+// Computers
+@media (min-width: 768px) {
+  .px-john {
+    padding-right: 0vw !important;
+    padding-left: 0vw !important;
     margin-right: 30vw !important;
     margin-left: 30vw !important;
   }
