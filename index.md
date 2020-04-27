@@ -4,6 +4,8 @@
 
 *26 April 2020*
 
+![reuters_empty](https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2268,w_4032,x_0,y_0/dpr_1.5/c_limit,w_608/fl_lossy,q_auto/v1587940033/2020-03-19T191517Z_500544701_RC27NF9NRCAW_RTRMADP_3_HEALTH-CORONAVIRUS-USA-TYSON-FOODS_ele2tt)
+
 Tyson Foods, one of the world's largest producers of meat, has taken out a full-page advertisement in the New York Times to warn the public of the dire situation in the American food industry.
 
 **"Millions of pounds of meat will disappear from the supply chain,"** CEO John Tyson stated. Factory farms across the country are being forced to close due to the coronavirus.
@@ -16,6 +18,8 @@ Tyson Foods, one of the world's largest producers of meat, has taken out a full-
 
 The plant-based meat industry has shown signs of strength in the midst of the coronavirus crisis. As pork prices rise and slaughterhouses are forced to shutter their doors, sales in plant based meat are more than double what they were at this point in time last year.
 
+Meat production in the US is falling rapidly: 32% of pork and 14% of beef production has been shut down in recent weeks.
+
 While the sub-headline claims "plant-based alternative sales jump 200 per cent in US," this statistic really shows the year-long trend in the rise in popularity of plant-based meat. Still, it goes to show the resilience of the novel meat alternative market.
 
 ## **[Why diseases thrive in wet markets](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)**
@@ -27,3 +31,11 @@ While the sub-headline claims "plant-based alternative sales jump 200 per cent i
 The coronavirus pandemic was likely incubated in the open-air "wet" meat markets of China. Traditional means of meat production will continue to be a festering ground for disease into the foreseeable future.
 
 Lab-grown "clean" meat can one day be produced in factory conditions as sanitary as a run-of-the-mill Coors Light brewery. Mass-production breweries have caused 0 pandemics so far.
+
+## **[US slaughterhouses close after COVID-19 outbreaks](https://www.ft.com/content/9e3f906f-7db0-4027-974f-bf7393d60068)**
+
+*16 April 2020*
+
+Meat producers across the US are closing facilities in response to the coronavirus crisis.
+
+In addition to the economic fallout being felt across the country, slaughterhouses have experienced outbreaks of COVID-19 among their factory workers.
