@@ -1,4 +1,3 @@
-*Your source for updates on the industry known as clean/cultured/cultivated/lab-grown/sci-fi meat*
 
 
 ## **[Tyson Foods: the food supply chain is breaking](https://twitter.com/AnaSwanson/status/1254416173854228489)**
