@@ -1,6 +1,12 @@
 # Clean Meat News
 
-## **[Why Diseases Thrive in Wet Markets](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)** 
+## **[Tyson Foods: the food supply chain is breaking](https://twitter.com/AnaSwanson/status/1254416173854228489)**
+
+Tyson Foods, one of the world's largest producers of meat, has taken out a full-page advertisement in the New York Times to warn of the dire situation in the American food industry.
+
+**"Millions of pounds of meat will disappear from the supply chain"**, CEO John Tyson stated. The coronavirus crisis is leading to the closures of many factory farms.
+
+## **[Why Diseases Thrive in Wet Markets](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)**
 
 ### The Morning Bulletin. Posted 4/24/2020
 ![wet_market](https://media.apnarm.net.au/media/images/2020/04/19/v3imagesbinb672536bb9f573c2b7740c5f4f899de6-jxxsmhqxq3tghrtz6u2_ct1880x930.jpg)
