@@ -17,10 +17,10 @@
     <meta property="og:url" content="http://cleanmeat.news" />
     <meta property ="og:title" content="{% if page.title %}
     {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %} {{ site.title }} {% endif %}">
+    {% else %} {{ site.title }} {% endif %}"/>
     <meta property ="og:site_name" content="{% if page.title %}
     {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %} {{ site.title }} {% endif %}">
+    {% else %} {{ site.title }} {% endif %}"/>
     <meta property="og:description" content="News aggregator for the clean meat industry." />
     <meta name="description" content="News aggregator for the clean meat industry." />
     <meta property="og:image" content="https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/10/redMeat-849360782-770x553-650x428.jpg" />
@@ -53,12 +53,6 @@
 
       {{ content }}
 
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
-      {% endif %}
-    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     {% if site.google_analytics %}
