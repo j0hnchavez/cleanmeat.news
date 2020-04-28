@@ -6,7 +6,7 @@
 
 The U.S. Department of Agriculture has offered to create emergency facilities for the "depopulation and disposal" of livestock that have become unusable by the meat industry.
 
-While [slaughterhouses across the country are closing](https://cleanmeat.news/posts/1), animals on factory farms continue growing. Thousands of animals are reaching market weight that will not be able to be sent to meat processing plants.
+While [slaughterhouses across the country are closing](https://cleanmeat.news/posts/2020/apr/1), animals on factory farms continue growing. Thousands of animals are reaching market weight that will not be able to be sent to meat processing plants.
 
 The government is offering to dispose of excess animals in a similar way to how plant farmers are turning over ripe and healthy plants. USDA killed 31.5 million birds in 2015 in the midst of the avian influenza outbreak.
 
