@@ -17,9 +17,28 @@
     <meta property="og:url" content="http://cleanmeat.news"/>
     <meta property ="og:title" content="Clean Meat News"/>
     <meta property ="og:site_name" content="Clean Meat News"/>
-    <meta property="og:description" content="News aggregator for the clean meat industry." />
-    <meta name="description" content="News aggregator for the clean meat industry." />
+    <meta property="og:description" content="News aggregator for the clean meat industry" />
+    <meta name="description" content="News aggregator for the clean meat industry" />
     <meta property="og:image" content="https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/10/redMeat-849360782-770x553-650x428.jpg" />
+    <meta property="og:title"
+    content="{% if page.title %}
+      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}">
+    <meta property="og:description"
+    content="{% if page.excerpt %}
+        {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+      {% else %}
+        {{ site.description }}
+      {% endif %}">
+    <meta property="og:url"
+    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:site" content="@chronotope" />
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
   </head>
 
   <body>
