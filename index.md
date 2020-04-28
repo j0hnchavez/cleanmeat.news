@@ -1,4 +1,16 @@
+*Clean meat news aggregator*
 
+**[Emergency USDA slaughter facilities]**(https://www.desmoinesregister.com/story/money/agriculture/2020/04/25/coronavirus-pork-producers-loss-of-processors-usda-depopulate-herds/3026312001/)
+
+The U.S. Department of Agriculture is creating emergency facilities for the "depopulation and disposal" of livestock that have become unusable by the meat industry.
+
+The government has offered to cull herds of livestock as factory farms run out of space for their animals.
+
+**[Trump to order meat processing plants to stay open](https://finance.yahoo.com/news/trump-order-u-meat-plants-170041467.html)**
+
+President Trump will order American slaughterhouses to remain open amidst the coronavirus pandemic. Meat processing plants will be designated as critical infrastructure so that Trump can mandate their continued operation under the Defense Production Act.
+
+Slaughterhouses have been closing across the country in recent weeks. 6,500 American meat packing workers have either tested positive for the virus or been forced into self-quarantine after being in close contact with an infected worker.
 
 ## **[Tyson Foods: the food supply chain is breaking](https://twitter.com/AnaSwanson/status/1254416173854228489)**
 
@@ -34,7 +46,9 @@ Lab-grown "clean" meat can one day be produced in factory conditions as sanitary
 
 ## **[US slaughterhouses close after COVID-19 outbreaks](https://www.ft.com/content/9e3f906f-7db0-4027-974f-bf7393d60068)**
 
-*16 April 2020*
+*16 April 2020* [Source](https://www.ft.com/content/9e3f906f-7db0-4027-974f-bf7393d60068)
+
+![closures](https://s.yimg.com/ny/api/res/1.2/sTxLxzUYaKKWg0cIxn0Asg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9MTI4MDtoPTk2MA--/https://media.zenfs.com/en/bloomberg_markets_842/121cfc3ab4bb1fb51b13c2643630384b)
 
 Meat producers across the US are closing facilities in response to the coronavirus crisis.
 
