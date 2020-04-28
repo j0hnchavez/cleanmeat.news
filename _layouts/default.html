@@ -5,15 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Clean Meat News</title>
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@cleanmeatnews" />
-    <meta name="twitter:creator" content="@cleanmeatnews" />
-    <meta name="author" content="Cleanmeat.news" />
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="new.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@cleanmeatnews" />
+    <meta name="twitter:creator" content="@cleanmeatnews" />
+    <meta name="author" content="Cleanmeat.news" />
     <meta property="og:url" content="http://cleanmeat.news"/>
     <meta property ="og:title" content="Clean Meat News"/>
     <meta property ="og:site_name" content="Clean Meat News"/>
@@ -34,7 +35,6 @@
       {% endif %}">
     <meta property="og:url"
     content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:locale" content="en_US" />
     <meta name="twitter:site" content="@chronotope" />
     <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
