@@ -4,16 +4,20 @@
 
 *28 April 2020* [Source](https://www.desmoinesregister.com/story/money/agriculture/2020/04/25/coronavirus-pork-producers-loss-of-processors-usda-depopulate-herds/3026312001/)
 
+![pigs](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/globalmeatnews.com/headlines/livestock/china-processors-create-giant-pig-farm/7983788-1-eng-GB/China-processors-create-giant-pig-farm_wrbm_large.jpg)
+
 The U.S. Department of Agriculture has offered to create emergency facilities for the "depopulation and disposal" of livestock that have become unusable by the meat industry.
 
-While [slaughterhouses across the country are closing](https://cleanmeat.news/posts/2020/apr/1), animals on factory farms continue growing. Thousands of animals are reaching market weight that will not be able to be sent to meat processing plants.
+While [slaughterhouses across the country are closing](https://cleanmeat.news/posts/2020/apr/1), animals on factory farms continue growing. Thousands of animals are reaching market weight that will not be able to be sent to meat processing plants. If they aren't disposed of, farms will run out of space as younger animals continue growing.
 
-The government is offering to dispose of excess animals in a similar way to how plant farmers are turning over ripe and healthy plants. USDA killed 31.5 million birds in 2015 in the midst of the avian influenza outbreak.
+[WSJ reports](https://www.wsj.com/articles/pork-industry-usda-discuss-euthanizing-hogs-after-coronavirus-closes-plants-11588015611) that USDA is considering using carbon dioxide gas in rooms full of pigs to kill them. The government stepping in to eliminate livestock is not unprecedented; USDA killed 31.5 million birds in 2015 in the midst of the avian influenza outbreak.
 
 
 ## **[Trump to order meat processing plants to stay open](https://cleanmeat.news/posts/2020/apr/5)**
 
 *28 April 2020* [Source](https://finance.yahoo.com/news/trump-order-u-meat-plants-170041467.html)
+
+![trump](https://www.washingtonpost.com/resizer/fwyro5vwNqCaPzTz5NbX9Xs_oPw=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YH3N7D6OYA2FZIHAGYEWU56OSU.jpg)
 
 President Trump will order American slaughterhouses to remain open amidst the coronavirus pandemic. Meat processing plants will be designated as critical infrastructure so that Trump can mandate their continued operation under the Defense Production Act.
 
