@@ -15,8 +15,12 @@
     <script src="new.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <meta property="og:url" content="http://cleanmeat.news" />
-    <meta property="og:title" content="Clean meat news" />
-    <meta property="og:site_name" content="Clean meat news"
+    <meta property ="og:title" content="{% if page.title %}
+    {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+    {% else %} {{ site.title }} {% endif %}">
+    <meta property ="og:site_name" content="{% if page.title %}
+    {{ page.title | strip_html | strip_newlines | truncate: 160 }}
+    {% else %} {{ site.title }} {% endif %}">
     <meta property="og:description" content="News aggregator for the clean meat industry." />
     <meta name="description" content="News aggregator for the clean meat industry." />
     <meta property="og:image" content="https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/10/redMeat-849360782-770x553-650x428.jpg" />
