@@ -12,7 +12,9 @@ The code for this site is open source. [See for yourself][2]. I promise I am not
 Test donate button:
 <script src="https://www.moneybutton.com/moneybutton.js"></script>
 <div class="money-button"
-  data-to="[paymail, user ID, address, or script]"
-  data-amount="[amount]"
-  data-currency="[currency]"
+  data-label="Donate $1 in BSV"
+  data-op-return="Thank you!"
+  data-to="14727"
+  data-amount="1"
+  data-currency="USD"
 ></div>
