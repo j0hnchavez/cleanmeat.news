@@ -11,7 +11,7 @@ The code for this site is open source. [See for yourself][2]. I promise I am not
 
 <script src="https://www.moneybutton.com/moneybutton.js"></script>
 <div class="money-button"
-  data-label="Donation"
+  data-label="Donation (BSV)"
   data-op-return="Thank you! :)"
   data-to="14727"
   data-amount="1"
