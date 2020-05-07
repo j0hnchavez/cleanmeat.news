@@ -3,9 +3,9 @@ layout: post
 title:  "Clean Meat News"
 date:   2020-10-29 01:34:51 -0400
 categories: meat
-image: http://41.media.tumblr.com/173cb5c51a1c308ab022a786f69353f3/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
+image: https:
 vertical: Code
-excerpt: "Link aggregation for the latest news in the lab-grown meat industry."
+excerpt: "The latest updates in the lab-grown meat industry"
 ---
 
 ## **[USDA offers to build emergency slaughter facilities](https://cleanmeat.news/posts/2020/apr/6)**
