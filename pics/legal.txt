@@ -1,0 +1,1 @@
+Hosting publi-domain images on this site to ensure all links are static.
