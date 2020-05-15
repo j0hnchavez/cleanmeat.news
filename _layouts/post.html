@@ -4,9 +4,9 @@ permalink: pretty
 ---
 
 <h2><strong>{{ page.title }}</strong></h2>
-<h3><strong> <a href="{{ page.source }}">{{ page.source_name }}</a></strong></h3>
 <p>
   <em>{{ page.date | date_to_string }}</em> 
+  <a href="{{ page.source }}">{{ page.source_name }}</a>
 </p>
 <p>
   <img src={{ page.image }}>
