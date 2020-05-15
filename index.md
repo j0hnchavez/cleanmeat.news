@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Clean Meat News"
-date:   2020-10-29 01:34:51 -0400
+date: 2020-10-29 01:34:51 -0400
 categories: meat
-image: https:
+image: https://pbs.twimg.com/profile_images/1255192103220473857/AX_pAMoC_400x400.png
 vertical: Code
 excerpt: "The latest updates in the lab-grown meat industry"
 ---

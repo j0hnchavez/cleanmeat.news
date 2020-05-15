@@ -1,3 +1,3 @@
 # Contact
 
-For feedback, rants, or questions, email me at **john@cleanmeat.news**.
+For questions, feedback, or furious rants, email me at **john@cleanmeat.news**.
