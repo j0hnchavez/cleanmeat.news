@@ -1,10 +1,15 @@
 ---
 layout: default
 ---
+## {{ page.title }}
 
-html version
+
+<!-- 
+html version 
+
 <h1>{{ page.title }}</h1>
 {{ page.date | date_to_string }} - <a href="{{ post.source }}">Source</a>
 <img src={{ post.image }}>
 
 {{ content }}
+-->
