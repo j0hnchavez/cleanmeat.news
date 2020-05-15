@@ -5,13 +5,13 @@ layout: default
 <div class="constrain">
    <h2>Latest posts</h2> 
    <section class="card-list">
-           {% for post in site.posts offset:1 %}
+           {% for post in site.posts %}
            <div class="card">
                    <img src="{{ post.image }}" />
                    <div class="card-details">
                    <h3>{{ post.date | date:"%d %b" }} - {{ post.title }}</h3>
                    {{ post.excerpt }}
-               <a href="{{ post.url }}" class="btn">Read More</a>
+                    <a href="{{ post.url }}" class="btn">Read More</a>
                    </div>
                </div>
            {% endfor %}
