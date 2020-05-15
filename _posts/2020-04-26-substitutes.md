@@ -2,8 +2,7 @@
 layout: post
 title: "Pandemic accelerates shift to meat substitutes"
 excerpt: The plant-based meat industry has shown signs of strength in the midst of the coronavirus crisis.
-image: https://media.apnarm.net.au/media/images/2020/04/19/v3imagesbinb672536bb9f573c2b7740c5f4f899de6-jxxsmhqxq3tghrtz6u2_ct1880x930.jpg
-source: https://www.ft.com/content/0127984a-6def-4040-9bca-002b6ffd4e0a
+image: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90c19457-3af0-4e54-aae9-2cac281c7b3a.jpg?fit=scale-down&source=next&width=700
 ---
 
 The plant-based meat industry has shown signs of strength in the midst of the coronavirus crisis. Sales of plant-based meat are more than double what they were at this point in time last year.
