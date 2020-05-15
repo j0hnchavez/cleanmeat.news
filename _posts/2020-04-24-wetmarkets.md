@@ -3,14 +3,8 @@ layout: post
 title: "Why diseases thrive in wet markets"
 excerpt: COVID-19 arose out of wet markets, and lab grown meat could help to make sure something similar never happens again.
 image: https://media.apnarm.net.au/media/images/2020/04/19/v3imagesbinb672536bb9f573c2b7740c5f4f899de6-jxxsmhqxq3tghrtz6u2_ct1880x930.jpg
-source:https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/
+source: https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/
 ---
-
-## **Why diseases thrive in wet markets**
-
-*24 April 2020* [Source](https://www.themorningbulletin.com.au/news/why-diseases-thrive-in-wet-markets/3998069/)
-
-![wet_market](https://media.apnarm.net.au/media/images/2020/04/19/v3imagesbinb672536bb9f573c2b7740c5f4f899de6-jxxsmhqxq3tghrtz6u2_ct1880x930.jpg)
 
 The coronavirus pandemic was likely incubated in the open-air "wet" meat markets of China. Traditional means of meat production will continue to be a festering ground for disease into the foreseeable future.
 
