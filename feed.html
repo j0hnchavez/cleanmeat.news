@@ -2,8 +2,14 @@
 layout: default
 title: Feed
 ---
+
 {% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <img src={{ post.image }}>
-  {{ post.excerpt }}
+<div class="card" style="width: 18rem;">
+  <img src="{{ post.image }}" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">{{ post.title }}</h5>
+    <p class="card-text">{{ post.excerpt }}</p>
+    <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
+  </div>
+</div>
 {% endfor %}
