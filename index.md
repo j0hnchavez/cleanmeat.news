@@ -8,6 +8,18 @@ vertical: Code
 excerpt: "The latest updates in the lab-grown meat industry"
 ---
 
+## **[Why Meatpacking Plants are COVID-19 Hotspots](https://cleanmeat.news/posts/2020/may/1)**
+
+*7 May 2020* [Source](https://www.wired.com/story/why-meatpacking-plants-have-become-covid-19-hot-spots/)
+
+![Assemby_Line](https://cleanmeat.news/pics/20_5_1.jpg)
+
+Chances are you've heard that meatpacking plant workers are falling ill to the coronavirus across the world. But why has the virus found such a strong foothold in these conditions?
+
+A CDC report has pointed to several possible reasons. Firstly, meatpackers work long shifts in close proximity to dozens of fellow workers. Secondly, the work of processing meat on an assembly line is rapid and tends to lead to heavy breathing, which increases the spread of the virus. Lastly, meat plants are kept at low temperatures to preserve the raw meat, and COVID-19 is better able to survive in colder environments.
+
+These 3 reasons help to explain the observed high rates of COVID-19 in meat plants. Whatever the full explanation may be, it's worth pointing out that clean meat brewing facilities not recreate the conditions that have led to this predicament. A carnery (meat brewery) will make use of industrial-scale bioreactors and automated food processing, and the meat itself will never come into contact with zoonotic diseases in the first place.
+
 ## **[USDA offers to build emergency slaughter facilities](https://cleanmeat.news/posts/2020/apr/6)**
 
 *28 April 2020* [Source](https://www.desmoinesregister.com/story/money/agriculture/2020/04/25/coronavirus-pork-producers-loss-of-processors-usda-depopulate-herds/3026312001/)
