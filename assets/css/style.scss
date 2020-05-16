@@ -8,11 +8,20 @@ body{
   font-size:16px
 }
 
-// No bottom border or padding on ## headers
+// No bottom border or padding on h2 headers
 .markdown-body h2
 {
   border-bottom: 0px solid #eaecef;
   padding-bottom: 0em
+}
+
+// No top & bot border or padding on h4 headers
+.markdown-body h4
+{
+  border-bottom: 0px solid #eaecef;
+  padding-bottom: 0em;
+  border-top: 0px solid #eaecef;
+  padding-top: 0em
 }
 
 // If on phone, slight bezels
