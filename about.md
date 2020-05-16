@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# About
-
 Cleanmeat.news is a news aggregator for the lab-grown/clean meat industry.
 
 The code for this site is open source. [See for yourself][1]. I promise I am not spying on you. This is my first website and it's written from scratch (no Squarespace/Wix etc.).
