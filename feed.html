@@ -8,7 +8,7 @@ title: Feed
   <img src="{{ post.image }}" class="card-img-top">
   <div class="card-body">
     <h4 class="card-title">{{ post.title }}</h4>
-    <h4 href="{{ page.source }}">{{ page.source_name }}</h4>
+    <a href="{{ post.source }}">{{ post.source_name }}</a>
     <p class="card-text">{{ post.excerpt }}</p>
     <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
   </div>
