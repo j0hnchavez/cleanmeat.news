@@ -30,7 +30,8 @@ body{
 @media (max-width: 544px) {
   .px-john {
     padding-right: 0.6rem !important;
-    padding-left: 0.6rem !important
+    padding-left: 0.6rem !important;
+    text-align: center !important
   }
 }
 
@@ -42,6 +43,8 @@ body{
     padding: 10px !important
   }
 }
+
+
 
 // Limit scale growth to 664px (arbitrary)
 //.container-lg {
