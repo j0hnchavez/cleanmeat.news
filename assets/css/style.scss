@@ -26,6 +26,26 @@ body{
   margin-bottom: 12px
 }
 
+/********** center *********/
+// If on phone, slight bezels
+@media (max-width: 544px) {
+  .px-john-center {
+    padding-right: 0.6rem !important;
+    padding-left: 0.6rem !important;
+    text-align: center !important
+  }
+}
+// If not on phone, substantial bezels
+@media (min-width: 544px) {
+  .px-john-center {
+    margin: auto !important;
+    width: 90% !important;
+    padding: 10px !important;
+    text-align: center !important
+  }
+}
+
+/********** normal *********/
 // If on phone, slight bezels
 @media (max-width: 544px) {
   .px-john {
@@ -34,7 +54,6 @@ body{
     text-align: center !important
   }
 }
-
 // If not on phone, substantial bezels
 @media (min-width: 544px) {
   .px-john {
@@ -44,8 +63,6 @@ body{
     text-align: center !important
   }
 }
-
-
 
 // Limit scale growth to 664px (arbitrary)
 //.container-lg {
