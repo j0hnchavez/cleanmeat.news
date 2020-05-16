@@ -1,0 +1,21 @@
+---
+layout: default
+image: https://pbs.twimg.com/profile_images/1255192103220473857/AX_pAMoC_400x400.png
+---
+
+<div class="constrain">
+  <section class="card-list">
+    {% for post in site.posts %}
+      <div class="card">
+        <img src="{{ post.image }}" />
+        <div class="card-details">
+          <h3>{{ post.title }}</h3>
+         <p>{{ post.excerpt }}</p>
+         <p><a href="{{ post.source }}">{{ post.source_name }}</a></p>
+         <p><a href="{{ post.url }}" class="btn">Read More</a></p>
+        </div>
+      </div>
+      <p></p>
+    {% endfor %}   
+   </section>
+</div>

@@ -1,21 +1,16 @@
 ---
 layout: default
-image: https://pbs.twimg.com/profile_images/1255192103220473857/AX_pAMoC_400x400.png
 ---
-
-<div class="constrain">
-  <section class="card-list">
-    {% for post in site.posts %}
-      <div class="card">
-        <img src="{{ post.image }}" />
-        <div class="card-details">
-          <h3>{{ post.title }}</h3>
-         <p>{{ post.excerpt }}</p>
-         <p><a href="{{ post.source }}">{{ post.source_name }}</a></p>
-         <p><a href="{{ post.url }}" class="btn">Read More</a></p>
-        </div>
-      </div>
-      <p></p>
-    {% endfor %}   
-   </section>
+<div class = "px-john-center">
+{% for post in site.posts %}
+<div class="card" style="width: 21rem; display:inline-block; margin:1vw">
+  <img src="{{ post.image }}" class="card-img-top">
+  <div class="card-body" style="text-align: left">
+    <h4 class="card-title">{{ post.title }}</h4>
+    <a href="{{ post.source }}">{{ post.source_name }}</a>
+    <p class="card-text">{{ post.excerpt }}</p>
+    <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
+  </div>
+</div>
+{% endfor %}
 </div>
