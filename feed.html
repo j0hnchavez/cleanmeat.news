@@ -4,12 +4,12 @@ title: Feed
 ---
 
 {% for post in site.posts %}
-<div class="card" style="width: 24rem; display:inline-block;">
+<div class="card" style="width: 18rem; display:inline-block;">
   <img src="{{ post.image }}" class="card-img-top">
   <div class="card-body">
     <h4 class="card-title">{{ post.title }}</h4>
-    <p href="{{ post.source }}">{{ post.source_name }}</p>
-    <a class="card-text">{{ post.excerpt }}</a>
+    <a href="{{ post.source }}">{{ post.source_name }}</a>
+    <p class="card-text">{{ post.excerpt }}</p>
     <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
   </div>
 </div>

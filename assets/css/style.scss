@@ -44,9 +44,9 @@ body{
   }
 }
 
-// Limit scale growth (arbitrary)
+// Limit scale growth to 664px (arbitrary)
 .container-lg {
-  max-width: 80%
+  max-width: 664px
 }
 
 .navtheme-focus {
