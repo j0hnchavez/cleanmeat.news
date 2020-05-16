@@ -37,9 +37,9 @@ body{
 // If not on phone, substantial bezels
 @media (min-width: 544px) {
   .px-john {
-    margin: auto;
-    width: 77%;
-    padding: 10px
+    margin: auto !important;
+    width: 90% !important;
+    padding: 10px !important
   }
 }
 
