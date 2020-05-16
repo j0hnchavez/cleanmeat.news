@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # Stats
 
 ## *Coming soon*

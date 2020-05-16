@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # About
 
 Cleanmeat.news is a news aggregator for the lab-grown/clean meat industry.
