@@ -50,8 +50,7 @@ body{
 @media (max-width: 544px) {
   .px-john {
     padding-right: 0.6rem !important;
-    padding-left: 0.6rem !important;
-    text-align: center !important
+    padding-left: 0.6rem !important
   }
 }
 // If not on phone, substantial bezels
@@ -59,8 +58,7 @@ body{
   .px-john {
     margin: auto !important;
     width: 90% !important;
-    padding: 10px !important;
-    text-align: center !important
+    padding: 10px !important
   }
 }
 
