@@ -1,4 +1,5 @@
 ---
+title: Stats
 layout: post
 ---
 
