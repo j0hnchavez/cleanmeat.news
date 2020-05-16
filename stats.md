@@ -1,3 +1,5 @@
 # Stats
 
-One day I'll have some of my own data analysis on this page. For now I'm just focusing on creating the site.
+## *Coming soon*
+
+Arriving in late 2020, this page will provide data-driven insights into the state of the industry.
