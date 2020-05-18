@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: pretty
+---
+
+<div class = "px-john-center">
+  <div class="grid" data-masonry='{ "columnWidth": 200, "itemSelector": ".grid-item" }'>
+  {% for post in site.posts %}
+    <div class="grid-item">
+    {{ post.title }}
+    </div> 
+  {% endfor %}
+  </div>
+</div>
