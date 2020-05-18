@@ -23,7 +23,7 @@ permalink: pretty
 <a> Testing below</a>
 
 <div class = "px-john-center">
-  <div class = "grid">
+  <div class = "grid" data-masonry='{ "columnWidth": 200, "itemSelector": ".grid-item" }'>
     <div class = "grid-sizer col-md-3"></div>
     {% for post in site.posts %}
     <div class = "grid-item col-md3 mb-4">
