@@ -4,19 +4,16 @@ permalink: pretty
 ---
 
 <div class = "px-john-center">
-  <div class="card-deck">
-    {% for post in site.posts %}
-    <div class="card" style="width: 21rem; display:inline-block; margin:0.5vw">
-      <img src="{{ post.image }}" class="card-img-top">
-      <div class="card-body" style="text-align: left">
-        <p class="card-title"> <strong> {{ post.title }} </strong> </p>
-        <a href="{{ post.source }}"> <strong> {{ post.source_name }} </strong> </a> <a> test </a>
-        <p></p>
-        <p class="card-text">{{ post.excerpt }}</p>
-        <a href="{{ post.url }}" class="btn btn-outline-primary">Read More</a>
-        <p class="card-text"> Test {{ post.date | date: '%B %d, %Y' }} </p>
-      </div>
+  {% for post in site.posts %}
+  <div class="card h-100" style="width: 21rem; display:inline-block; margin:0.5vw">
+    <img src="{{ post.image }}" class="card-img-top">
+    <div class="card-body" style="text-align: left">
+      <p class="card-title"> <strong> {{ post.title }} </strong> </p>
+      <a href="{{ post.source }}"> <strong> {{ post.source_name }} </strong> </a> <a> {{ post.date | date: '%B %d, %Y' }} </a>
+      <p></p>
+      <p class="card-text">{{ post.excerpt }}</p>
+      <a href="{{ post.url }}" class="btn btn-outline-primary">Read More</a>
     </div>
-    {% endfor %}
   </div>
+  {% endfor %}
 </div>
