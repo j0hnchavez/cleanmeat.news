@@ -8,8 +8,10 @@ permalink: pretty
   <div class="card" style="width: 21rem; display:inline-block; margin:0.5vw">
     <img src="{{ post.image }}" class="card-img-top">
     <div class="card-body" style="text-align: left">
-      <h4 class="card-title">{{ post.title }}</h4>
+      <p class="card-title">{{ post.title }}</p>
+      <br>
       <a href="{{ post.source }}">{{ post.source_name }}</a>
+      <br>
       <p class="card-text">{{ post.excerpt }}</p>
       <a href="{{ post.url }}" class="btn btn-outline-primary">Read More</a>
     </div>
