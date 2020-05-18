@@ -4,10 +4,11 @@ permalink: pretty
 ---
 
 <div class = "px-john-center">
+  <div class="card-columns">
   {% for post in site.posts %}
   <div class="card" style="width: 21rem; display:inline-block; margin:0.5vw">
     <img src="{{ post.image }}" class="card-img-top">
-    <div class="card-body h-100" style="text-align: left">
+    <div class="card-body" style="text-align: left">
       <p class="card-title"> <strong> {{ post.title }} </strong> </p>
       <a href="{{ post.source }}"> <strong> {{ post.source_name }} </strong> </a> <a> {{ post.date | date: '%B %d, %Y' }} </a>
       <p></p>
@@ -16,4 +17,5 @@ permalink: pretty
     </div>
   </div>
   {% endfor %}
+  </div>
 </div>
