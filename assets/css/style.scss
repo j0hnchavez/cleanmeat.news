@@ -74,3 +74,7 @@ background-image: linear-gradient(15deg, #FF5733  0%, #581845 100%);
 .navtheme-focus-rev {
 background-image: linear-gradient(15deg, #581845  0%, #FF5733 100%);
 }
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FF5733 !important;
+}
