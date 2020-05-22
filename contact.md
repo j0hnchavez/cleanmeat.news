@@ -3,4 +3,4 @@ title: Contact
 layout: post
 ---
 
-For questions, feedback, or furious rants, email me at **john@cleanmeat.news**.
+For questions, and feedback, email our editor at **john@cleanmeat.news**.
