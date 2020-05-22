@@ -22,20 +22,22 @@ permalink: pretty
 
 <a> Testing below</a>
 
-<div class = "grid" data-masonry='{ "columnWidth": 200, "itemSelector": ".grid-item" }'>
-    <div class = "grid-sizer"></div>
-    {% for post in site.posts %}
-    <div class = "grid-item">
-      <div class="card" style="width: 21rem; display:inline-block; margin:0.5vw">
-        <img src="{{ post.image }}" class="card-img-top">
-        <div class="card-body" style="text-align: left">
-          <p class="card-title"> <strong> {{ post.title }} </strong> </p>
-          <a href="{{ post.source }}"> <strong> {{ post.source_name }} </strong> </a> <a> {{ post.date | date: '%b %d %y' }} </a>
-          <p></p>
-          <p class="card-text">{{ post.excerpt }}</p>
-          <a href="{{ post.url }}" class="btn btn-outline-primary">Read More</a>
+<div class = "px-john-center">
+  <div class = "grid" data-masonry='{ "columnWidth": 200, "itemSelector": ".grid-item" }'>
+      <div class = "grid-sizer"></div>
+      {% for post in site.posts %}
+      <div class = "grid-item">
+        <div class="card" style="width: 21rem; display:inline-block; margin:0.5vw">
+          <img src="{{ post.image }}" class="card-img-top">
+          <div class="card-body" style="text-align: left">
+            <p class="card-title"> <strong> {{ post.title }} </strong> </p>
+            <a href="{{ post.source }}"> <strong> {{ post.source_name }} </strong> </a> <a> {{ post.date | date: '%b %d %y' }} </a>
+            <p></p>
+            <p class="card-text">{{ post.excerpt }}</p>
+            <a href="{{ post.url }}" class="btn btn-outline-primary">Read More</a>
+          </div>
         </div>
       </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
