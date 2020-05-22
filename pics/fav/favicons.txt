@@ -1,0 +1,3 @@
+This folder includes the favicons for this website.
+
+Favicons will work on web, Android & iOS browser tabs, home screen shortcuts, and Safari tabs (greyed out silhouette).
