@@ -19,7 +19,7 @@ It was the first widespread term for the industry after "lab-grown." It is [much
 
 However, the term was abandoned in favor of terms like "cultured" and "cultivated" when industry leaders like [The Good Food Institute decided][4] that it failed a "minimum standard of neutrality." This makes sense, especially when considering that organizations like the GFI value working closely with the conventional meat industry. Publicists for factory farming corporations have expressed strong disapproval of the term "clean meat" because of its implication that traditional meat is unclean. But this site has no reason to tiptoe around the feelings of Tyson marketers. Factory farms an unclean festering grounds of disease and slaughtered animal carcasses. Bioreactors can make clean meat: meat that's environmentally, morally, and biologically clean. We're trying to make clean meat.
 
-**Contact & Support***
+**Contact & Support**
 
 You can contact our editor at **john@cleanmeat.news**.
 
