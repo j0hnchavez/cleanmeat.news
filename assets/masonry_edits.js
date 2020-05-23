@@ -3,7 +3,6 @@
 // jquery
 $('.grid').masonry({
   itemSelector: '.grid-item',
-  columnWidth: 330,
   gutter: 20,
   fitWidth: true,
   horizontalOrder: true
@@ -17,3 +16,5 @@ $('.grid').masonry({
 //   fitWidth: true,
 //   horizontalOrder: true;
 // });
+
+//  columnWidth: 330,
