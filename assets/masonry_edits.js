@@ -4,7 +4,7 @@
 $('.grid').masonry({
   itemSelector: '.grid-item',
   columnWidth: 330,
-  gutter: 10,
+  gutter: 20,
   fitWidth: true,
   horizontalOrder: true
 });
