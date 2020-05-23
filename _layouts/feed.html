@@ -20,12 +20,12 @@ permalink: pretty
 
 <a> Testing below </a>
 
-<div class = "px-john-center">
+<div class = "px-john-center" style="text-align:center">
   <div class = "grid" data-masonry='{"itemSelector": ".grid-item" }'>
       <div class = "grid-sizer"></div>
       {% for post in site.posts %}
       <div class = "grid-item">
-        <div class="card" style="width: 330px; display:inline-block; margin-bottom: 20px">
+        <div class="card" style="width: 330px; margin-bottom: 20px">
           <img src="{{ post.image }}" class="card-img-top">
           <div class="card-body" style="text-align: left">
             <p class="card-title"> <strong> {{ post.title }} </strong> </p>
