@@ -1,6 +1,6 @@
 ---
 title: About
-layout: post
+layout: default
 ---
 
 **Cleanmeat.news is a news aggregator for the lab-grown/clean meat industry.**
