@@ -1,14 +1,20 @@
 // external js: masonry.pkgd.js
 
-// jquery
 $('.grid').masonry({
   itemSelector: '.grid-item',
   columnWidth: '.grid-sizer',
-  percentPosition: true,
-  gutter: 20,
-  fitWidth: true,
-  horizontalOrder: true
+  percentPosition: true
 });
+
+// jquery
+// $('.grid').masonry({
+//   itemSelector: '.grid-item',
+//   columnWidth: '.grid-sizer',
+//   percentPosition: true,
+//   gutter: 20,
+//   fitWidth: true,
+//   horizontalOrder: true
+// });
 
 // vanilla JS
 // var msnry = new Masonry( '.grid', {
