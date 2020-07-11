@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <!-- Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <!-- Navbar -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
     <!-- Github Pages -->
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!-- Favicon -->
+    
+    <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="76x76" href="https://cleanmeat.news/pics/fav/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://cleanmeat.news/pics/fav/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://cleanmeat.news/pics/fav/favicon-16x16.png">
@@ -21,6 +24,7 @@
     <link rel="mask-icon" href="https://cleanmeat.news/pics/fav/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+    
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@cleanmeatnews" />
@@ -31,9 +35,85 @@
     <meta property="og:description" content="{% if page.excerpt %} {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ site.description }} {% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:locale" content="en_US" />
-    <!-- Masonry -->
-    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-    <script src="https://cleanmeat.news/assets/masonry_edits.js"></script>
+    
+    <style>
+
+      body{
+        font-size:16px;
+      }
+
+      a:link, a:visited, a:hover, a:active{
+        color: #8f2c3f;
+      }
+
+      p {
+        margin-bottom: .75rem !important;
+      }
+
+      @media (max-width: 544px) {
+        .main-div {
+          padding-right: 0.6rem !important;
+          padding-left: 0.6rem !important;
+          text-align: center !important;
+        }
+      }
+
+      @media (min-width: 544px) {
+        .main-div {
+          margin: auto !important;
+          width: 90% !important;
+          padding: 10px !important;
+          text-align: center !important;
+          max-width: 1100px !important;
+        }
+      }
+
+      .markdown-body h2
+      {
+        border-bottom: 0px solid #eaecef;
+        padding-bottom: 0em;
+      }
+
+      .markdown-body h4
+      {
+        border-bottom: 0px solid #eaecef;
+        padding-bottom: 0em;
+        border-top: 0px solid #eaecef;
+        padding-top: 0em;
+        margin-top: 0px;
+        margin-bottom: 12px;
+      }
+
+      .navtheme-focus-rev {
+      background-image: linear-gradient(15deg, #581845  0%, #FF5733 100%);
+      }
+
+      .btn-primary, .btn-primary:active, .btn-primary:visited {
+          background-color: #FF5733 !important; 
+          border-color:#FF5733 !important;
+          color: rgb(255,255,255) !important;
+      }
+      .btn-primary:hover {
+          background-color: rgb(247, 134, 108) !important;
+          border-color:rgb(247, 134, 108) !important;
+          color: rgb(255,255,255) !important;
+      }
+
+      .btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary:visited {
+          background-color: rgb(255, 255, 255) !important; 
+          border-color: #8f2c3f !important;
+          color: #8f2c3f !important;
+      }
+      .btn-outline-primary:hover {
+          background-color: #8f2c3f !important;
+          border-color: #8f2c3f !important;
+          color: rgb(255,255,255) !important;
+      }
+      .card {
+        border: 1px solid rgb(143,44,63) !important;
+      }
+
+    </style>
   </head>
 
   <body>
@@ -56,10 +136,7 @@
         </ul>
       </div>
     </nav>
-
-    <!-- make a div on every page
-    <div class="container-lg px-john my-5 markdown-body" id="site-content">
-    -->
+    
     <div>
     {{ content }}
     </div>
