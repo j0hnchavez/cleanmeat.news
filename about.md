@@ -2,9 +2,11 @@
 title: About
 layout: default
 ---
-
+<div class="main-div">
 **Cleanmeat.news is a news aggregator for the lab-grown/clean meat industry.**
+</div>
 
+<div class="main-div" style="text-align:left !important;">
 The purpose of this site is to provide the most up-to-date and informative news for the lab-grown meat industry. Its purpose is not to convince the reader of the need for such technology -- good cases for the adoption of clean meat can be found here and here. The purpose is also not to explain the science of clean meat -- quality examples of that include this and this. The purpose of the site is simply to inform the reader of the current state of the industry.
 
 This site will regularly inform the reader of important trends in the conventional meat industry. The reason for this is that cell-cultured meat is an attempt to disrupt the current meat industry, and if it is to be succesful it ought to learn from the strengths and weaknesses of the status quo. Articles about plant-based meat alternatives will also be featured occasionally, because the plant-based meat industry can be learned from as a precursor to the clean meat industry.
@@ -34,6 +36,8 @@ Otherwise, if you'd like to support our site, you can donate $1 in BSV through [
   data-amount="1"
   data-currency="USD"
 ></div>
+
+</div>
 
 [1]: https://github.com/j0hnchavez/j0hnchavez.github.io
 [2]: https://docs.moneybutton.com/docs/mb-overview.html
