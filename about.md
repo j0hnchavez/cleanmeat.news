@@ -2,13 +2,13 @@
 title: About
 layout: default
 ---
-<div class="main-div">
+<div class="main-div" markdown="1">
 
 **Cleanmeat.news is a news aggregator for the lab-grown/clean meat industry.**
 
 </div>
 
-<div class="main-div" style="text-align:left !important;">
+<div class="main-div" style="text-align:left !important;" markdown="1">
 
 The purpose of this site is to provide the most up-to-date and informative news for the lab-grown meat industry. Its purpose is not to convince the reader of the need for such technology -- good cases for the adoption of clean meat can be found here and here. The purpose is also not to explain the science of clean meat -- quality examples of that include this and this. The purpose of the site is simply to inform the reader of the current state of the industry.
 
